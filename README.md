@@ -8,6 +8,8 @@
 [ush2]: https://github.com/ushahidi/Ushahidi_Web
 [ushahidi]: http://ushahidi.com
 
+Kevin was here!
+
 Ushahidi Platform
 =================
 
